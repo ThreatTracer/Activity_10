@@ -1,0 +1,47 @@
+Logs:
+Hostname: ThreatTracer]
+IP Address: 10.0.0.4
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ping https://www.sinrevilo.moc
+ping https://www.xeno-byte.moc
+ping https://www.gi4nt-tcr.moc
+traceroute https://www.gi4nt-tcr.moc
+traceroute https://www.xeno-byte.moc
+traceroute https://www.sinrevilo.moc
+ns lookup sinrevilo.moc
+nslookup sinrevil.moc
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup www.gi4nt-tcr.moc
+nslookup gi4nt-tcr.moc
+nmap -sV sinrevilo.moc
+nmap -sV 89.562.167.1
+nmap sinrevilo.moc
+nslookup sinrevilo,moc
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup gi4nt-tcr.moc
+dig sinrevilo.moc
+dig xeno-byte.moc
+dig gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap 149.658.125.3
+nmap 78.562.35.6
+nmap -sV 89.562.167.1
+nmap -sV 149.658.125.3
+nmap -sV 78.562.35.6
+nmap -A 89.562.167.1
+nmap -A 149.658.125.3
+nmap -A 78.562.35.6
+tcpdump -i WLAN
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
